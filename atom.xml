@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-04-24T08:35:14.069Z</updated>
+  <updated>2020-04-24T09:39:38.302Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -21,9 +21,17 @@
     <link href="https://quincysting.github.io/ianqin/2020/04/24/Welcome-to-Ian-s-blog/"/>
     <id>https://quincysting.github.io/ianqin/2020/04/24/Welcome-to-Ian-s-blog/</id>
     <published>2020-04-24T08:35:14.000Z</published>
-    <updated>2020-04-24T08:35:14.069Z</updated>
+    <updated>2020-04-24T09:39:38.302Z</updated>
+    
+    <content type="html"><![CDATA[<p>This site is built on top of Github usinig hexo.<br>Thank you for visiting.<br>More exciting content is coming.</p>]]></content>
     
     <summary type="html">
+    
+      
+      
+        &lt;p&gt;This site is built on top of Github usinig hexo.&lt;br&gt;Thank you for visiting.&lt;br&gt;More exciting content is coming.&lt;/p&gt;
+
+      
     
     </summary>
     
