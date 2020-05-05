@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-05-05T10:08:59.710Z</updated>
+  <updated>2020-05-05T10:49:19.172Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Ian Qin&#39;s Resume</title>
+    <link href="https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/"/>
+    <id>https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/</id>
+    <published>2020-05-05T10:40:28.000Z</published>
+    <updated>2020-05-05T10:49:19.172Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;a href=&quot;/pdf/Ian_Qin_CV.pdf&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/ian.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;   
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Resume" scheme="https://quincysting.github.io/ianqin/tags/Resume/"/>
+    
+  </entry>
   
   <entry>
     <title>Completed four NANOs at Udacity</title>
