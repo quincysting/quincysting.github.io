@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-05-05T10:49:19.172Z</updated>
+  <updated>2020-05-11T00:42:38.414Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/"/>
     <id>https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/</id>
     <published>2020-05-05T10:40:28.000Z</published>
-    <updated>2020-05-05T10:49:19.172Z</updated>
+    <updated>2020-05-11T00:42:38.414Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,8 @@
       
         
         
-          &lt;p&gt;&lt;a href=&quot;/pdf/Ian_Qin_CV.pdf&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/ian.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;   
+          &lt;p&gt;Please click the image.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/pdf/Ian_Qin_CV.pdf&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/Ian.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;   
         
       
     
@@ -46,7 +47,7 @@
     <link href="https://quincysting.github.io/ianqin/2020/05/05/Completed-four-NANOs-at-Udacity/"/>
     <id>https://quincysting.github.io/ianqin/2020/05/05/Completed-four-NANOs-at-Udacity/</id>
     <published>2020-05-05T09:37:44.000Z</published>
-    <updated>2020-05-05T10:08:59.710Z</updated>
+    <updated>2020-05-11T00:16:35.020Z</updated>
     
     <summary type="html">
     
@@ -54,7 +55,8 @@
       
         
         
-          &lt;p&gt;Overall it’s quite a challenging experience. It’s all project by project based with a specified timeframe. You have to be motivated and study independendly as there is not much help from
+          &lt;p&gt;Have known Udacity for quite a while but didn’t have chance to try it out. During “Great Lockdown”, I finally have time to sit down and finish four NANOs. &lt;/p&gt;
+&lt;p&gt;Unlike Coursera or some other
         
       
     
@@ -63,29 +65,6 @@
     
     
       <category term="Training" scheme="https://quincysting.github.io/ianqin/tags/Training/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://quincysting.github.io/ianqin/2020/04/24/hello-world/"/>
-    <id>https://quincysting.github.io/ianqin/2020/04/24/hello-world/</id>
-    <published>2020-04-24T08:12:25.545Z</published>
-    <updated>2020-04-24T08:12:25.546Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt;
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
