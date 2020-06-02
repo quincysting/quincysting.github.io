@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-05-11T00:42:38.414Z</updated>
+  <updated>2020-06-02T02:20:30.762Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -17,11 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hall of certificates</title>
+    <link href="https://quincysting.github.io/ianqin/2020/06/02/Hall-of-certificates/"/>
+    <id>https://quincysting.github.io/ianqin/2020/06/02/Hall-of-certificates/</id>
+    <published>2020-06-02T02:20:30.000Z</published>
+    <updated>2020-06-02T02:20:30.762Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Ian Qin&#39;s Resume</title>
     <link href="https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/"/>
     <id>https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/</id>
     <published>2020-05-05T10:40:28.000Z</published>
-    <updated>2020-05-11T00:42:38.414Z</updated>
+    <updated>2020-05-11T00:57:19.718Z</updated>
     
     <summary type="html">
     
@@ -29,8 +44,7 @@
       
         
         
-          &lt;p&gt;Please click the image.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/pdf/Ian_Qin_CV.pdf&quot; class=&quot;image fit&quot;&gt;&lt;img src=&quot;/images/Ian.jpg&quot; alt=&quot;&quot;&gt;&lt;/a&gt;   
+          &lt;embed src=&quot;/pdf/Ian_QIN_CV.pdf&quot;
         
       
     

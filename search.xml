@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>Hall of certificates</title>
+      <link href="/2020/06/02/Hall-of-certificates/"/>
+      <url>/2020/06/02/Hall-of-certificates/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Ian Qin&#39;s Resume</title>
       <link href="/2020/05/05/Ian-Qin-s-Resume/"/>
       <url>/2020/05/05/Ian-Qin-s-Resume/</url>
       
-        <content type="html"><![CDATA[<p>Please click the image.</p><p><a href="/pdf/Ian_Qin_CV.pdf" class="image fit"><img src="/images/Ian.jpg" alt=""></a>    </p>]]></content>
+        <content type="html"><![CDATA[<embed src="/pdf/Ian_QIN_CV.pdf" type="application/pdf">]]></content>
       
       
       
