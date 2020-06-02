@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-06-02T04:24:29.260Z</updated>
+  <updated>2020-06-02T04:49:11.339Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First AWS Certificate</title>
+    <link href="https://quincysting.github.io/ianqin/2020/06/02/First-AWS-Certificate/"/>
+    <id>https://quincysting.github.io/ianqin/2020/06/02/First-AWS-Certificate/</id>
+    <published>2020-06-02T04:28:24.000Z</published>
+    <updated>2020-06-02T04:49:11.339Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;My first one with 83%. Not bad. It takes me about one month for preparation. I had previous experience using CloudFormation, SageMaker and Lambda plus extensive Cisco networking baackground so
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="AWS" scheme="https://quincysting.github.io/ianqin/tags/AWS/"/>
+    
+  </entry>
   
   <entry>
     <title>Project Management</title>
