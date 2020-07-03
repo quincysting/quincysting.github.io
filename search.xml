@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>AWS SAP DONE</title>
+      <link href="/2020/07/03/AWS-SAP-DONE/"/>
+      <url>/2020/07/03/AWS-SAP-DONE/</url>
+      
+        <content type="html"><![CDATA[<p>My second AWS badge. Not the hardest exam so far but SAP exam does seriously test your speed and accuracy. You need to be very proficient in key concepts, connect dots and design right solutions. I heard a lot people saying it’s a difficult exam. I feel I prepared a bit too much. It’s like 5 weeks after my associate exam on 27th May.</p><img src="/images/SAP.PNG" class="" width="500" title="SAP"><img src="/images/score.PNG" class="" width="500" title="score"><p>Just found out the founders of A Cloud Guru are Aussie brothers. Inspiring story! A Cloud Guru acquired Linux Academy in December 2019. If you wanna study cloud technology, that’s the place to be. I like the logic and depth of their course material which covers every mainstream cloud product in the market like AWS, Google and Azure. On a side note, SAP exam is very time compressed. I feel 500 hours practice does not guarantee to pass exam especially for people with English as a second language. So online training/practice and exam preparation should be paralleled tasks.</p><p>I think the study path follows a similar structure [computing, storage, database, networking, security, migration, SAM, DevOps] for every cloud product. Under technical facade, we have cloud native, SAM and CI/CD implementation. AWS has No.1 market share for a reason. It’s widely used by every industry vertical, accumulates tens of thousands of hours of operating experience and provides best service packages for customers and partners. Technology without massive implementation is not competent.</p><p>I plan to pass Azure Solution Architect by July and GCP PSA by August. Then I will deep dive AWS Big Data, Machine Learning and Security plus DevOps. Hope to sign off by 2020. </p><p>Some good material for SAP exam,</p><ol><li><a href="https://www.braincert.com/course/10323-AWS-Certified-Solutions-Architect-%E2%80%93-Professional-Practice-Exams" target="_blank" rel="noopener">Practical exam</a></li><li>AWS White paper (I almost downloaded all of them)<iframe src="https://drive.google.com/embeddedfolderview?id=1bavLoZszX_bFy7L0dFBAMxs3Gf3SuyVt#grid" style="width:100%; height:600px; border:0;"></iframe></li><li><a href="https://tutorialsdojo.com/aws-cheat-sheets/" target="_blank" rel="noopener">Cheat sheets</a></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> AWS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>First AWS Certificate</title>
       <link href="/2020/06/02/First-AWS-Certificate/"/>
       <url>/2020/06/02/First-AWS-Certificate/</url>

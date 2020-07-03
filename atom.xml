@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-06-03T00:29:25.622Z</updated>
+  <updated>2020-07-03T10:32:36.888Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AWS SAP DONE</title>
+    <link href="https://quincysting.github.io/ianqin/2020/07/03/AWS-SAP-DONE/"/>
+    <id>https://quincysting.github.io/ianqin/2020/07/03/AWS-SAP-DONE/</id>
+    <published>2020-07-03T10:07:19.000Z</published>
+    <updated>2020-07-03T10:32:36.888Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;My second AWS badge. Not the hardest exam so far but SAP exam does seriously test your speed and accuracy. You need to be very proficient in key concepts, connect dots and design right solutions.
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="AWS" scheme="https://quincysting.github.io/ianqin/tags/AWS/"/>
+    
+  </entry>
   
   <entry>
     <title>First AWS Certificate</title>
