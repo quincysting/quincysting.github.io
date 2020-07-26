@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-07-03T10:32:36.888Z</updated>
+  <updated>2020-07-26T10:29:19.331Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -17,21 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Passed Microsoft Azure Architect Technologies AZ300 Exam on 23rd July</title>
+    <link href="https://quincysting.github.io/ianqin/2020/07/26/Passed-Microsoft-Azure-Architect-Technologies-AZ300-Exam-on-23rd-July/"/>
+    <id>https://quincysting.github.io/ianqin/2020/07/26/Passed-Microsoft-Azure-Architect-Technologies-AZ300-Exam-on-23rd-July/</id>
+    <published>2020-07-26T08:59:30.000Z</published>
+    <updated>2020-07-26T10:29:19.331Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/az300.PNG&quot; class=&quot;&quot; width=&quot;300&quot; title=&quot;az300&quot;&gt;
+&lt;p&gt;The preparation for AZ300 is pretty straight forward to me right after AWS SAP exam. The study path is very identical like storage, computing, security, etc. But there are huge differences in underlying technologies, for example, Azure Cosmos DB vs. AWS DynamoDB. I feel very intrigued to find out how things stack up differently. I like integrated Cloud Shell from Azure portal and it’s very easy to switch between Powershell and Bash. &lt;/p&gt;
+&lt;p&gt;Also AZ300 is very case study oriented. I like &lt;a href=&quot;https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?tab=tab-learning-paths&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AZ300 official site&lt;/a&gt; which provides hands-on labs and case scenarios analysis. Comparing with AWS SAP, I feel AZ300 is more practical and less theory. You need to have intermediate programming skills and understand Microsoft technology stack. The exam has labs and coding related questions to test your real operating skills.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Azure" scheme="https://quincysting.github.io/ianqin/tags/Azure/"/>
+    
+  </entry>
+  
+  <entry>
     <title>AWS SAP DONE</title>
     <link href="https://quincysting.github.io/ianqin/2020/07/03/AWS-SAP-DONE/"/>
     <id>https://quincysting.github.io/ianqin/2020/07/03/AWS-SAP-DONE/</id>
     <published>2020-07-03T10:07:19.000Z</published>
-    <updated>2020-07-03T10:32:36.888Z</updated>
+    <updated>2020-07-26T10:22:27.543Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;My second AWS badge. Not the hardest exam so far but SAP exam does seriously test your speed and accuracy. You need to be very proficient in key concepts, connect dots and design right solutions.
-        
-      
+      &lt;p&gt;My second AWS badge. Not the hardest exam so far but SAP exam does seriously test your speed and accuracy. You need to be very proficient in key concepts, connect dots and design right solutions. I heard a lot people saying it’s a difficult exam. I feel I prepared a bit too much. It’s like 5 weeks after my associate exam on 27th May.&lt;/p&gt;
+&lt;img src=&quot;/images/SAP.PNG&quot; class=&quot;&quot; width=&quot;500&quot; title=&quot;SAP&quot;&gt;
+&lt;img src=&quot;/images/score.PNG&quot; class=&quot;&quot; width=&quot;500&quot; title=&quot;score&quot;&gt;
     
     </summary>
     
@@ -46,17 +63,12 @@
     <link href="https://quincysting.github.io/ianqin/2020/06/02/First-AWS-Certificate/"/>
     <id>https://quincysting.github.io/ianqin/2020/06/02/First-AWS-Certificate/</id>
     <published>2020-06-02T04:28:24.000Z</published>
-    <updated>2020-06-03T00:29:25.622Z</updated>
+    <updated>2020-07-26T10:23:40.069Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;My first one with 83%. Not bad. It takes me about one month for preparation. I had previous experience using CloudFormation, SageMaker and Lambda plus extensive Cisco networking baackground so
-        
-      
+      &lt;p&gt;My first one with 83%. Not bad. It takes me about one month for preparation. I had previous experience using CloudFormation, SageMaker and Lambda plus extensive Cisco networking baackground so don’t feel any difficulty. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youracclaim.com/badges/a1e3cb60-f114-4ae1-96cc-6ae811b919ce/linked_in_profile&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AWS Certified Solution Architect Associate&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;/images/AWS.PNG&quot; class=&quot;&quot; width=&quot;500&quot; title=&quot;AWS&quot;&gt;&lt;/p&gt;
     
     </summary>
     
@@ -71,18 +83,12 @@
     <link href="https://quincysting.github.io/ianqin/2020/06/02/Project-Management/"/>
     <id>https://quincysting.github.io/ianqin/2020/06/02/Project-Management/</id>
     <published>2020-06-02T03:26:45.000Z</published>
-    <updated>2020-06-03T00:28:50.211Z</updated>
+    <updated>2020-07-26T10:23:56.159Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Part of my continuous study plan and try to stay ahead of popular project management practices in industry, this is part of my achievement so far.&lt;/p&gt;
-&lt;p&gt;The Scrum Guide made by Jeff Sutherland
-        
-      
+      &lt;p&gt;Part of my continuous study plan and try to stay ahead of popular project management practices in industry, this is part of my achievement so far.&lt;/p&gt;
+&lt;p&gt;The Scrum Guide made by Jeff Sutherland and Ken Schwaber only has 19 pages. It doesn’t mean it’s easy to execute but it’s just a very top level introduction. You could easily write thousands pages of documents for various industries and organization functions to implement Scrum and that part needs to be explored. Have been closely looking at case studies cross industry sectors, how they go through the transformation process, I would say they follow 60% of common practice plus 40% tailored approach. When everything-as-a-service business model propels, the only thing you present to customers is that piece of APP made of binary code. I don’t see tratidional corporate hierarchy and top-down dependency fit in current business context any more.&lt;/p&gt;
     
     </summary>
     
@@ -122,18 +128,12 @@
     <link href="https://quincysting.github.io/ianqin/2020/05/05/Completed-four-NANOs-at-Udacity/"/>
     <id>https://quincysting.github.io/ianqin/2020/05/05/Completed-four-NANOs-at-Udacity/</id>
     <published>2020-05-05T09:37:44.000Z</published>
-    <updated>2020-05-11T00:16:35.020Z</updated>
+    <updated>2020-07-26T10:23:08.048Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Have known Udacity for quite a while but didn’t have chance to try it out. During “Great Lockdown”, I finally have time to sit down and finish four NANOs. &lt;/p&gt;
-&lt;p&gt;Unlike Coursera or some other
-        
-      
+      &lt;img src=&quot;/images/certificates.jpg&quot; class=&quot;&quot; width=&quot;1000&quot; title=&quot;Udacity NANOs&quot;&gt;
+&lt;p&gt;Have known Udacity for quite a while but didn’t have chance to try it out. During “Great Lockdown”, I finally have time to sit down and finish four NANOs. &lt;/p&gt;
     
     </summary>
     
