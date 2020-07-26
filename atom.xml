@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-07-26T10:29:19.331Z</updated>
+  <updated>2020-07-26T11:10:47.191Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="https://quincysting.github.io/ianqin/2020/07/26/Passed-Microsoft-Azure-Architect-Technologies-AZ300-Exam-on-23rd-July/"/>
     <id>https://quincysting.github.io/ianqin/2020/07/26/Passed-Microsoft-Azure-Architect-Technologies-AZ300-Exam-on-23rd-July/</id>
     <published>2020-07-26T08:59:30.000Z</published>
-    <updated>2020-07-26T10:29:19.331Z</updated>
+    <updated>2020-07-26T11:10:47.191Z</updated>
     
     <summary type="html">
     
-      &lt;img src=&quot;/images/az300.PNG&quot; class=&quot;&quot; width=&quot;300&quot; title=&quot;az300&quot;&gt;
+      &lt;img src=&quot;/images/az300.png&quot; class=&quot;&quot; width=&quot;300&quot; title=&quot;az300&quot;&gt;
 &lt;p&gt;The preparation for AZ300 is pretty straight forward to me right after AWS SAP exam. The study path is very identical like storage, computing, security, etc. But there are huge differences in underlying technologies, for example, Azure Cosmos DB vs. AWS DynamoDB. I feel very intrigued to find out how things stack up differently. I like integrated Cloud Shell from Azure portal and it’s very easy to switch between Powershell and Bash. &lt;/p&gt;
 &lt;p&gt;Also AZ300 is very case study oriented. I like &lt;a href=&quot;https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?tab=tab-learning-paths&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AZ300 official site&lt;/a&gt; which provides hands-on labs and case scenarios analysis. Comparing with AWS SAP, I feel AZ300 is more practical and less theory. You need to have intermediate programming skills and understand Microsoft technology stack. The exam has labs and coding related questions to test your real operating skills.&lt;/p&gt;
     
