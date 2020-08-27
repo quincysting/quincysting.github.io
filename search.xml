@@ -4,6 +4,63 @@
   
     
     <entry>
+      <title>Passed Google Professional Cloud Architect on 25th August</title>
+      <link href="/2020/08/27/Passed-Google-Professional-Cloud-Architect-on-25th-August/"/>
+      <url>/2020/08/27/Passed-Google-Professional-Cloud-Architect-on-25th-August/</url>
+      
+        <content type="html"><![CDATA[<p>Today it marks a key milestone for my multi-cloud journey. I have passed all professional level solutions architect certificates by AWS, AZURE and GOOGLE. Have always been planning to do it. During COVID19, it’s probably the best time to complete this challenge.</p><p>The exam only has PASS/FAIL. It takes 7-10 days to eventually receive the certificate from Google.<br><img src="/images/google.PNG" class="" title="google google"></p><p>Google Cloud Next OnAir sessions started from July. Meanwhile, there are free Google PCK Sprint classes which offer related topics aligned with Next OnAir. It’s like a free buffet with all you can eat Google Cloud technologies. I attended all of them. On top of it, I got free qwiklabs credits. Timing is perfect and I really benefit a lot from these events.</p><p>I still feel AWS SAP is the hardest exam. GOOGLE exam only has 50 questions. It’s abundant study material. The official guidebook has detailed for every topic. The case studies are in provision before the exam. Qwiklabs has so many labs to practice and helps you understand each technology component. Coursera provides two courses, one for exam preparation and another is for core technologies. In addition, you can follow Next OnAir, listen to current industries adoption and best practices.</p><p>Looking forward, since I have passed Azure security, time to clear this topic for AWS and GOOGLE in September.</p><p>Useful information:</p><ol><li><p>Google PCK Sprint: Core Infrastructure </p></li><li><p><a href="https://www.amazon.com.au/Official-Google-Certified-Professional-Architect/dp/1119602440/ref=asc_df_1119602440/?tag=googleshopdsk-22&amp;linkCode=df0&amp;hvadid=341743255824&amp;hvpos=&amp;hvnetw=g&amp;hvrand=639873281616708049&amp;hvpone=&amp;hvptwo=&amp;hvqmt=&amp;hvdev=c&amp;hvdvcmdl=&amp;hvlocint=&amp;hvlocphy=9071767&amp;hvtargid=pla-832597521104&amp;psc=1" target="_blank" rel="noopener">Official Google Cloud Certified Professional Cloud Architect Study Guide Paperback 1</a></p></li><li><p><a href="https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam?ranMID=40328&amp;ranEAID=l7C703x9gqw&amp;ranSiteID=l7C703x9gqw-1WD9JiCVf66JB7OdwTw8lg&amp;siteID=l7C703x9gqw-1WD9JiCVf66JB7OdwTw8lg&amp;utm_content=2&amp;utm_medium=partners&amp;utm_source=linkshare&amp;utm_campaign=l7C703x9gqw" target="_blank" rel="noopener">Coursera: Preparing for the Google Cloud Professional Cloud Architect Exam</a></p></li><li><p><a href="https://www.coursera.org/specializations/gcp-architecture?ranMID=40328&amp;ranEAID=l7C703x9gqw&amp;ranSiteID=l7C703x9gqw-5jVbgQ_H6a1DAV.CohpRSA&amp;siteID=l7C703x9gqw-5jVbgQ_H6a1DAV.CohpRSA&amp;utm_content=2&amp;utm_medium=partners&amp;utm_source=linkshare&amp;utm_campaign=l7C703x9gqw" target="_blank" rel="noopener">Coursera: Architecting with Google Compute Engine Specialization</a></p></li><li><p><a href="https://www.braincert.com/test/11210-Google-Cloud-Certified-%E2%80%93-Professional-Cloud-Architect-Practice-Exam-1" target="_blank" rel="noopener">Braincert: Professional Cloud Architect Practice Exam 1</a></p></li><li><p><a href="https://cloud.google.com/certification/guides/professional-cloud-architect" target="_blank" rel="noopener">Offical GCP site</a></p></li><li><p><a href="https://cloud.withgoogle.com/next/sf/sessions#industry-insights" target="_blank" rel="noopener">Google Next OnAir</a></p></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Google Cloud </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Passed Azure Security Engineer Associate AZ500 Exam on 13th August</title>
+      <link href="/2020/08/27/Passed-Azure-Security-Engineer-Associate-AZ500-Exam-on-13th-August/"/>
+      <url>/2020/08/27/Passed-Azure-Security-Engineer-Associate-AZ500-Exam-on-13th-August/</url>
+      
+        <content type="html"><![CDATA[<img src="/images/azuresecurity.png" class="" title="azuresecurity azuresecurity"><p>It’s the new version of AZ500 and released on 29th July. I guess I am first batch of people taking the exam. My score is 823. </p><a id="more"></a><p>There are 4 buckets to study: application security, network security, computing/resource security and Active Directory. Not a very difficult topic to me so obviously it didn’t take me much time for preparation.</p><p>Although there are common industry best practices like bastion host, least privilege, defence in depth, etc. nowadays it’s a trend that more and more cloud vendors start to implement NLP for cloud security. It’s like a intelligent agent backed by machine learning to automatically study and identify malicious patterns and bahaviors, and proactively contain the risk. I guess it’s pretty easy to sell such ‘security as a service’ concept and charge a subscription fee. It’s not going to be cheap though.</p><p>Useful information:</p><ol><li><p><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-500?s=SCHEDULE_COMPLETE" target="_blank" rel="noopener">Official site</a></p></li><li><p>Microsoft Azure Virtual Training Day (webinar series) from 6th July (Google it)</p></li><li><p><a href="https://app.linuxacademy.com/search?query=az500" target="_blank" rel="noopener">Linux Academy: Microsoft Azure Security Technologies (LA) by Shawn Johnson</a></p></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Azure </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Passed Microsoft Azure Architect Design AZ301 Exam on 4th August</title>
+      <link href="/2020/08/27/Passed-Microsoft-Azure-Architect-Design-AZ301-Exam-on-4th-August/"/>
+      <url>/2020/08/27/Passed-Microsoft-Azure-Architect-Design-AZ301-Exam-on-4th-August/</url>
+      
+        <content type="html"><![CDATA[<img src="/images/az301.png" class="" width="301" title="az301"><img src="/images/azuresa.png" class="" title="azuresa azuresa"><p>Plus AZ300, now I am officially Azure Solutions Architect Expert! My hard work is paid off. So happy~</p><a id="more"></a><p>AZ301 is very much alike AZ300 but more focused on solutions design. I spent a lot time to practice using my free $200 credits. The official site has rich material from case studies to sand box practices. I really like some high quality labs which provide step by step instructions to build things like a data warehouse with Synapse Analytics or a scalable application through scale sets. I can feel the logic behind how to design a sound solution with key Azure technologies.</p><p>My AWS SAP background does help me a lot to speed up whole learning process. I feel AWS, AZURE and GOOGLE are not mutually exclusive in term of core cloud technologies, data encryption in transit and at rest, eleven nines of storage durability, virtual network design, a horizontally scalable, globally-distributed, multi-model database, etc. I think the key competition is how to create a bullet proof and high performance solution by combining various ingredients to meet industry specific usage scenarios. I always say technology without massive adoption is incompetent. If you watch a few AWS re:Invent video clips and check out AWS customers’ cloud journey, you shall know what I mean.</p><p>Microsoft Azure Virtual Training Day (webinar series) started from 6th July. There are plenty virtual sessions covering various Azure topics. The downside is that it’s in US timezone so I have to stay awake at 2am Australian east time. ;(</p><p>My exam has no labs. In addition to multiple choice questions, a few case studies, some drag and drop and hotspots. My final score is 842.</p><p>Useful information:</p><ol><li><p><a href="https://docs.microsoft.com/en-us/learn/certifications/exams/az-301" target="_blank" rel="noopener">AZ301 official site</a></p></li><li><p>Microsoft Azure Virtual Training Day (webinar series) from 6th July (Google it)</p></li><li><p><a href="https://linuxacademy.com/cp/modules/view/id/381?redirect_uri=https://app.linuxacademy.com/search?query=az301" target="_blank" rel="noopener">Linux Academy: Microsoft Azure Architect Design - Exam AZ-301 (LA) by James Lee</a></p></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Azure </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Passed Microsoft Azure Architect Technologies AZ300 Exam on 23rd July</title>
       <link href="/2020/07/26/Passed-Microsoft-Azure-Architect-Technologies-AZ300-Exam-on-23rd-July/"/>
       <url>/2020/07/26/Passed-Microsoft-Azure-Architect-Technologies-AZ300-Exam-on-23rd-July/</url>

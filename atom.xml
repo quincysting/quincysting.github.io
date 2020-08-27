@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-07-26T11:10:47.191Z</updated>
+  <updated>2020-08-27T00:41:33.950Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -15,6 +15,72 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Passed Google Professional Cloud Architect on 25th August</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/27/Passed-Google-Professional-Cloud-Architect-on-25th-August/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/27/Passed-Google-Professional-Cloud-Architect-on-25th-August/</id>
+    <published>2020-08-27T00:16:10.000Z</published>
+    <updated>2020-08-27T00:41:33.950Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Today it marks a key milestone for my multi-cloud journey. I have passed all professional level solutions architect certificates by AWS, AZURE and GOOGLE. Have always been planning to do it.
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Google Cloud" scheme="https://quincysting.github.io/ianqin/tags/Google-Cloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Passed Azure Security Engineer Associate AZ500 Exam on 13th August</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/27/Passed-Azure-Security-Engineer-Associate-AZ500-Exam-on-13th-August/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/27/Passed-Azure-Security-Engineer-Associate-AZ500-Exam-on-13th-August/</id>
+    <published>2020-08-27T00:15:28.000Z</published>
+    <updated>2020-08-27T00:34:46.415Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/azuresecurity.png&quot; class=&quot;&quot; title=&quot;azuresecurity azuresecurity&quot;&gt;
+&lt;p&gt;It’s the new version of AZ500 and released on 29th July. I guess I am first batch of people taking the exam. My score is 823. &lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Azure" scheme="https://quincysting.github.io/ianqin/tags/Azure/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Passed Microsoft Azure Architect Design AZ301 Exam on 4th August</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/27/Passed-Microsoft-Azure-Architect-Design-AZ301-Exam-on-4th-August/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/27/Passed-Microsoft-Azure-Architect-Design-AZ301-Exam-on-4th-August/</id>
+    <published>2020-08-27T00:14:59.000Z</published>
+    <updated>2020-08-27T00:28:34.691Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/az301.png&quot; class=&quot;&quot; width=&quot;301&quot; title=&quot;az301&quot;&gt;
+&lt;img src=&quot;/images/azuresa.png&quot; class=&quot;&quot; title=&quot;azuresa azuresa&quot;&gt;
+&lt;p&gt;Plus AZ300, now I am officially Azure Solutions Architect Expert! My hard work is paid off. So happy~&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Azure" scheme="https://quincysting.github.io/ianqin/tags/Azure/"/>
+    
+  </entry>
   
   <entry>
     <title>Passed Microsoft Azure Architect Technologies AZ300 Exam on 23rd July</title>
