@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-08-29T01:56:33.170Z</updated>
+  <updated>2020-08-31T12:18:08.490Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My 2020 &#39;Netflix&#39; hit list</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/31/My-2020-Netflix-hit-list/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/31/My-2020-Netflix-hit-list/</id>
+    <published>2020-08-31T12:08:54.000Z</published>
+    <updated>2020-08-31T12:18:08.490Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/images/books.png&quot; class=&quot;&quot; width=&quot;500&quot; title=&quot;books&quot;&gt;
+&lt;p&gt;Still have a lot to catch up. I put a copy here and hope they can help your study.&lt;/p&gt;
+&lt;p&gt;Disclaimer: These books are purely for
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Books" scheme="https://quincysting.github.io/ianqin/tags/Books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A key milestone in my multi cloud journey</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/31/A-key-milestone-in-my-multi-cloud-journey/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/31/A-key-milestone-in-my-multi-cloud-journey/</id>
+    <published>2020-08-31T12:08:25.000Z</published>
+    <updated>2020-08-31T12:10:50.796Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/images/journey.png&quot; class=&quot;&quot; width=&quot;500&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Cloud" scheme="https://quincysting.github.io/ianqin/tags/Cloud/"/>
+    
+  </entry>
   
   <entry>
     <title>Passed Google Professional Cloud Architect on 25th August</title>
