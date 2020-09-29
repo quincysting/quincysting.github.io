@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ian&#39;s blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://quincysting.github.io/ianqin/"/>
+  <updated>2020-09-29T23:20:31.899Z</updated>
+  <id>https://quincysting.github.io/ianqin/</id>
+  
+  <author>
+    <name>Ian Qin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Build a fully automated microservice</title>
+    <link href="https://quincysting.github.io/ianqin/2020/09/29/Build-a-fully-automated-microservice/"/>
+    <id>https://quincysting.github.io/ianqin/2020/09/29/Build-a-fully-automated-microservice/</id>
+    <published>2020-09-29T13:17:02.000Z</published>
+    <updated>2020-09-29T23:20:31.899Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;There are three key components for fully automated devops. They will make this world a better place and you as devops engineer will get paid like king.&lt;br&gt;1) A development pipeline for CICD. Plenty automation tools out there like CircleCI, Jenkins, Github Actions, AWS/Azure Pipeline …&lt;br&gt;2) Containerize the application using Docker. Ansible plus Packer are a good combination to build docker images.&lt;br&gt;3) Deploy the code to dev, test and staging environment using IaC (infrastructure as code). Terraform is a multi cloud solution and able to deploy docker images to provisioned infrastructure. &lt;/p&gt;
+&lt;p&gt;Below is a pet project to demo the nuclear power of automation empowered by AWS, Jenkins and docker. &lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="devops" scheme="https://quincysting.github.io/ianqin/tags/devops/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>My 2020 &quot;Netflix&quot; hit list</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/31/My-2020-Netflix-hit-list/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/31/My-2020-Netflix-hit-list/</id>
+    <published>2020-08-31T12:08:54.000Z</published>
+    <updated>2020-09-03T22:29:29.833Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/images/books.png&quot; class=&quot;&quot; width=&quot;1000&quot; title=&quot;books&quot;&gt;
+&lt;p&gt;Some good books to help your data, cloud and security related
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Books" scheme="https://quincysting.github.io/ianqin/tags/Books/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A key milestone in my multi cloud journey</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/31/A-key-milestone-in-my-multi-cloud-journey/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/31/A-key-milestone-in-my-multi-cloud-journey/</id>
+    <published>2020-08-31T12:08:25.000Z</published>
+    <updated>2020-08-31T12:21:57.452Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;img src=&quot;/images/journey.png&quot; class=&quot;&quot; width=&quot;1000&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Cloud" scheme="https://quincysting.github.io/ianqin/tags/Cloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Passed Google Professional Cloud Architect on 25th August</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/27/Passed-Google-Professional-Cloud-Architect-on-25th-August/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/27/Passed-Google-Professional-Cloud-Architect-on-25th-August/</id>
+    <published>2020-08-27T00:16:10.000Z</published>
+    <updated>2020-08-29T01:56:33.170Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Today it marks a key milestone for my multi cloud journey. I have passed all professional level Solutions Architect exams by AWS, Azure and Google. Have always been planning to do it. During COVID19, it’s probably the best time to complete this challenge.&lt;/p&gt;
+&lt;img src=&quot;/images/google.PNG&quot; class=&quot;&quot; width=&quot;500&quot; title=&quot;google&quot;&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Google Cloud" scheme="https://quincysting.github.io/ianqin/tags/Google-Cloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Passed Azure Security Engineer Associate AZ500 Exam on 13th August</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/27/Passed-Azure-Security-Engineer-Associate-AZ500-Exam-on-13th-August/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/27/Passed-Azure-Security-Engineer-Associate-AZ500-Exam-on-13th-August/</id>
+    <published>2020-08-27T00:15:28.000Z</published>
+    <updated>2020-08-27T00:34:46.415Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/azuresecurity.png&quot; class=&quot;&quot; title=&quot;azuresecurity azuresecurity&quot;&gt;
+&lt;p&gt;It’s the new version of AZ500 and released on 29th July. I guess I am first batch of people taking the exam. My score is 823. &lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Azure" scheme="https://quincysting.github.io/ianqin/tags/Azure/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Passed Microsoft Azure Architect Design AZ301 Exam on 4th August</title>
+    <link href="https://quincysting.github.io/ianqin/2020/08/27/Passed-Microsoft-Azure-Architect-Design-AZ301-Exam-on-4th-August/"/>
+    <id>https://quincysting.github.io/ianqin/2020/08/27/Passed-Microsoft-Azure-Architect-Design-AZ301-Exam-on-4th-August/</id>
+    <published>2020-08-27T00:14:59.000Z</published>
+    <updated>2020-08-27T00:28:34.691Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/az301.png&quot; class=&quot;&quot; width=&quot;301&quot; title=&quot;az301&quot;&gt;
+&lt;img src=&quot;/images/azuresa.png&quot; class=&quot;&quot; title=&quot;azuresa azuresa&quot;&gt;
+&lt;p&gt;Plus AZ300, now I am officially Azure Solutions Architect Expert! My hard work is paid off. So happy~&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Azure" scheme="https://quincysting.github.io/ianqin/tags/Azure/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Passed Microsoft Azure Architect Technologies AZ300 Exam on 23rd July</title>
+    <link href="https://quincysting.github.io/ianqin/2020/07/26/Passed-Microsoft-Azure-Architect-Technologies-AZ300-Exam-on-23rd-July/"/>
+    <id>https://quincysting.github.io/ianqin/2020/07/26/Passed-Microsoft-Azure-Architect-Technologies-AZ300-Exam-on-23rd-July/</id>
+    <published>2020-07-26T08:59:30.000Z</published>
+    <updated>2020-07-26T11:10:47.191Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/az300.png&quot; class=&quot;&quot; width=&quot;300&quot; title=&quot;az300&quot;&gt;
+&lt;p&gt;The preparation for AZ300 is pretty straight forward to me right after AWS SAP exam. The study path is very identical like storage, computing, security, etc. But there are huge differences in underlying technologies, for example, Azure Cosmos DB vs. AWS DynamoDB. I feel very intrigued to find out how things stack up differently. I like integrated Cloud Shell from Azure portal and it’s very easy to switch between Powershell and Bash. &lt;/p&gt;
+&lt;p&gt;Also AZ300 is very case study oriented. I like &lt;a href=&quot;https://docs.microsoft.com/en-us/learn/certifications/exams/az-300?tab=tab-learning-paths&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AZ300 official site&lt;/a&gt; which provides hands-on labs and case scenarios analysis. Comparing with AWS SAP, I feel AZ300 is more practical and less theory. You need to have intermediate programming skills and understand Microsoft technology stack. The exam has labs and coding related questions to test your real operating skills.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Azure" scheme="https://quincysting.github.io/ianqin/tags/Azure/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AWS SAP DONE</title>
+    <link href="https://quincysting.github.io/ianqin/2020/07/03/AWS-SAP-DONE/"/>
+    <id>https://quincysting.github.io/ianqin/2020/07/03/AWS-SAP-DONE/</id>
+    <published>2020-07-03T10:07:19.000Z</published>
+    <updated>2020-07-26T10:22:27.543Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;My second AWS badge. Not the hardest exam so far but SAP exam does seriously test your speed and accuracy. You need to be very proficient in key concepts, connect dots and design right solutions. I heard a lot people saying it’s a difficult exam. I feel I prepared a bit too much. It’s like 5 weeks after my associate exam on 27th May.&lt;/p&gt;
+&lt;img src=&quot;/images/SAP.PNG&quot; class=&quot;&quot; width=&quot;500&quot; title=&quot;SAP&quot;&gt;
+&lt;img src=&quot;/images/score.PNG&quot; class=&quot;&quot; width=&quot;500&quot; title=&quot;score&quot;&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="AWS" scheme="https://quincysting.github.io/ianqin/tags/AWS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>First AWS Certificate</title>
+    <link href="https://quincysting.github.io/ianqin/2020/06/02/First-AWS-Certificate/"/>
+    <id>https://quincysting.github.io/ianqin/2020/06/02/First-AWS-Certificate/</id>
+    <published>2020-06-02T04:28:24.000Z</published>
+    <updated>2020-08-30T12:13:32.815Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;My first one with 83%. Not bad. It takes me about one month for preparation. I had previous experience using CloudFormation, SageMaker and Lambda plus extensive Cisco networking baackground so don’t feel any difficulty. &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youracclaim.com/badges/a1e3cb60-f114-4ae1-96cc-6ae811b919ce/linked_in_profile&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;AWS Certified Solution Architect Associate&lt;/a&gt;&lt;br&gt;&lt;img src=&quot;/images/AWS.PNG&quot; class=&quot;&quot; width=&quot;500&quot; title=&quot;AWS&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="AWS" scheme="https://quincysting.github.io/ianqin/tags/AWS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Project Management</title>
+    <link href="https://quincysting.github.io/ianqin/2020/06/02/Project-Management/"/>
+    <id>https://quincysting.github.io/ianqin/2020/06/02/Project-Management/</id>
+    <published>2020-06-02T03:26:45.000Z</published>
+    <updated>2020-07-26T10:23:56.159Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Part of my continuous study plan and try to stay ahead of popular project management practices in industry, this is part of my achievement so far.&lt;/p&gt;
+&lt;p&gt;The Scrum Guide made by Jeff Sutherland and Ken Schwaber only has 19 pages. It doesn’t mean it’s easy to execute but it’s just a very top level introduction. You could easily write thousands pages of documents for various industries and organization functions to implement Scrum and that part needs to be explored. Have been closely looking at case studies cross industry sectors, how they go through the transformation process, I would say they follow 60% of common practice plus 40% tailored approach. When everything-as-a-service business model propels, the only thing you present to customers is that piece of APP made of binary code. I don’t see tratidional corporate hierarchy and top-down dependency fit in current business context any more.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Project management" scheme="https://quincysting.github.io/ianqin/tags/Project-management/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ian Qin&#39;s Resume</title>
+    <link href="https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/"/>
+    <id>https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/</id>
+    <published>2020-05-05T10:40:28.000Z</published>
+    <updated>2020-07-26T11:11:50.122Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;embed src=&quot;pdf/IAN_QIN_CV.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;600px&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Resume" scheme="https://quincysting.github.io/ianqin/tags/Resume/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Completed four NANOs at Udacity</title>
+    <link href="https://quincysting.github.io/ianqin/2020/05/05/Completed-four-NANOs-at-Udacity/"/>
+    <id>https://quincysting.github.io/ianqin/2020/05/05/Completed-four-NANOs-at-Udacity/</id>
+    <published>2020-05-05T09:37:44.000Z</published>
+    <updated>2020-08-30T12:15:19.146Z</updated>
+    
+    <summary type="html">
+    
+      &lt;img src=&quot;/images/certificates.jpg&quot; class=&quot;&quot; width=&quot;1000&quot; title=&quot;Udacity NANOs&quot;&gt;
+&lt;p&gt;Have known Udacity for quite a while but didn’t have chance to try it out. During “Great Lockdown”, I finally have time to sit down and finish four NANOs. &lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="Training" scheme="https://quincysting.github.io/ianqin/tags/Training/"/>
+    
+  </entry>
+  
+</feed>
