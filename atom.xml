@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-09-29T23:20:31.899Z</updated>
+  <updated>2020-09-29T23:54:51.653Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="https://quincysting.github.io/ianqin/2020/09/29/Build-a-fully-automated-microservice/"/>
     <id>https://quincysting.github.io/ianqin/2020/09/29/Build-a-fully-automated-microservice/</id>
     <published>2020-09-29T13:17:02.000Z</published>
-    <updated>2020-09-29T23:20:31.899Z</updated>
+    <updated>2020-09-29T23:54:51.653Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;There are three key components for fully automated devops. They will make this world a better place and you as devops engineer will get paid like king.&lt;br&gt;1) A development pipeline for CICD. Plenty automation tools out there like CircleCI, Jenkins, Github Actions, AWS/Azure Pipeline …&lt;br&gt;2) Containerize the application using Docker. Ansible plus Packer are a good combination to build docker images.&lt;br&gt;3) Deploy the code to dev, test and staging environment using IaC (infrastructure as code). Terraform is a multi cloud solution and able to deploy docker images to provisioned infrastructure. &lt;/p&gt;
+      &lt;p&gt;There are three key components for fully automated devops. They can completely modernize SDLC and make this world a better place.&lt;br&gt;1) A development pipeline for CICD. Plenty automation tools out there like CircleCI, Jenkins, Github Actions, AWS/Azure Pipeline …&lt;br&gt;2) Containerize the application using Docker. Ansible plus Packer are a good combination to build docker images.&lt;br&gt;3) Deploy the code to dev, test and staging environment using IaC (infrastructure as code). Terraform is a multi cloud solution and able to deploy docker images to provisioned infrastructure. &lt;/p&gt;
 &lt;p&gt;Below is a pet project to demo the nuclear power of automation empowered by AWS, Jenkins and docker. &lt;/p&gt;
     
     </summary>
