@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-09-29T23:54:51.653Z</updated>
+  <updated>2020-09-30T00:19:19.083Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -21,11 +21,11 @@
     <link href="https://quincysting.github.io/ianqin/2020/09/29/Build-a-fully-automated-microservice/"/>
     <id>https://quincysting.github.io/ianqin/2020/09/29/Build-a-fully-automated-microservice/</id>
     <published>2020-09-29T13:17:02.000Z</published>
-    <updated>2020-09-29T23:54:51.653Z</updated>
+    <updated>2020-09-30T00:19:19.083Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;There are three key components for fully automated devops. They can completely modernize SDLC and make this world a better place.&lt;br&gt;1) A development pipeline for CICD. Plenty automation tools out there like CircleCI, Jenkins, Github Actions, AWS/Azure Pipeline …&lt;br&gt;2) Containerize the application using Docker. Ansible plus Packer are a good combination to build docker images.&lt;br&gt;3) Deploy the code to dev, test and staging environment using IaC (infrastructure as code). Terraform is a multi cloud solution and able to deploy docker images to provisioned infrastructure. &lt;/p&gt;
+      &lt;p&gt;There are three key components for fully automated devops. They completely modernize SDLC and make this world a better place.&lt;br&gt;1) A development pipeline for CICD. Plenty automation tools out there like CircleCI, Jenkins, Github Actions, AWS/Azure Pipeline …&lt;br&gt;2) Containerize the application using Docker. Ansible plus Packer are a good combination to build docker images.&lt;br&gt;3) Deploy the code to dev, test and staging environment using IaC (infrastructure as code). Terraform is a multi cloud solution and able to deploy docker images to provisioned infrastructure. &lt;/p&gt;
 &lt;p&gt;Below is a pet project to demo the nuclear power of automation empowered by AWS, Jenkins and docker. &lt;/p&gt;
     
     </summary>
@@ -227,31 +227,6 @@
     
     
       <category term="Project management" scheme="https://quincysting.github.io/ianqin/tags/Project-management/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Ian Qin&#39;s Resume</title>
-    <link href="https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/"/>
-    <id>https://quincysting.github.io/ianqin/2020/05/05/Ian-Qin-s-Resume/</id>
-    <published>2020-05-05T10:40:28.000Z</published>
-    <updated>2020-07-26T11:11:50.122Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;embed src=&quot;pdf/IAN_QIN_CV.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;600px&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="Resume" scheme="https://quincysting.github.io/ianqin/tags/Resume/"/>
     
   </entry>
   
