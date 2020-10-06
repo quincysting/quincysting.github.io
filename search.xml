@@ -4,6 +4,63 @@
   
     
     <entry>
+      <title>Onward and upward</title>
+      <link href="/2020/10/06/Onward-and-upward/"/>
+      <url>/2020/10/06/Onward-and-upward/</url>
+      
+        <content type="html"><![CDATA[<p>Not a bad achievement for September. Three more titles and more to come.</p><img src="/images/journey2.jpg" class="" width="1000" title="journey2"><a id="more"></a><p>I decide to spend more time on devops and k8s related topics. What’s happening in the market right now is plenty cloud migration projects. The best way to deal with it is to containerize applications, make it portable then put to cloud. K8s is the best solution. CUrrently plenty CICD tools are fully integrated with k8s so once you develop a microservices, it can be directly and automagically containerized then uploaded to cloud. Very cool and efficiently.</p><blockquote><p>Onward and upward!<br><img src="/images/journey1.jpg" class="" width="1000" title="journey1"></p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> cloud </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Why cloud?</title>
+      <link href="/2020/10/06/Why-cloud/"/>
+      <url>/2020/10/06/Why-cloud/</url>
+      
+        <content type="html"><![CDATA[<p>Why cloud? Why so many buzz words about cloud? Does cloud cure cancer? A survey conducted by Harvard Business Review has a good view on it.</p><ol><li>Cloud provides business agility and flexibility to quickly respond to opportunities or risk in a low-code and work flow enabled infrastructure.</li><li>Cloud transcends the limitations of legacy technology and breaks IT complexity. This is even more important for SMBs who cannot afford complex IT environments.</li><li>A multi-cloud approach is favored due to concerns about security, costs, integration and customization. But multi-cloud also brings challenge for interoperability.</li></ol><img src="/images/whycloud.jpg" class="" width="1500" title="whycloud">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> cloud </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Complete devops automation in AWS</title>
+      <link href="/2020/10/06/Complete-devops-automation-in-AWS/"/>
+      <url>/2020/10/06/Complete-devops-automation-in-AWS/</url>
+      
+        <content type="html"><![CDATA[<p>This chart could help you understand the key components of a fully automated devops setup in AWS.<br><img src="/images/automation.jpg" class="" width="1000" title="automation"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> AWS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Build a fully automated microservice</title>
       <link href="/2020/09/29/Build-a-fully-automated-microservice/"/>
       <url>/2020/09/29/Build-a-fully-automated-microservice/</url>

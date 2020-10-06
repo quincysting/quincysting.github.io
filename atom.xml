@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://quincysting.github.io/ianqin/"/>
-  <updated>2020-09-30T00:19:19.083Z</updated>
+  <updated>2020-10-06T01:46:52.454Z</updated>
   <id>https://quincysting.github.io/ianqin/</id>
   
   <author>
@@ -15,6 +15,78 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Onward and upward</title>
+    <link href="https://quincysting.github.io/ianqin/2020/10/06/Onward-and-upward/"/>
+    <id>https://quincysting.github.io/ianqin/2020/10/06/Onward-and-upward/</id>
+    <published>2020-10-06T01:34:16.000Z</published>
+    <updated>2020-10-06T01:46:52.454Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Not a bad achievement for September. Three more titles and more to come.&lt;/p&gt;
+&lt;img src=&quot;/images/journey2.jpg&quot; class=&quot;&quot; width=&quot;1000&quot; title=&quot;journey2&quot;&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="cloud" scheme="https://quincysting.github.io/ianqin/tags/cloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Why cloud?</title>
+    <link href="https://quincysting.github.io/ianqin/2020/10/06/Why-cloud/"/>
+    <id>https://quincysting.github.io/ianqin/2020/10/06/Why-cloud/</id>
+    <published>2020-10-06T01:32:35.000Z</published>
+    <updated>2020-10-06T01:47:34.788Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Why cloud? Why so many buzz words about cloud? Does cloud cure cancer? A survey conducted by Harvard Business Review has a good view on it.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Cloud provides business agility and
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="cloud" scheme="https://quincysting.github.io/ianqin/tags/cloud/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Complete devops automation in AWS</title>
+    <link href="https://quincysting.github.io/ianqin/2020/10/06/Complete-devops-automation-in-AWS/"/>
+    <id>https://quincysting.github.io/ianqin/2020/10/06/Complete-devops-automation-in-AWS/</id>
+    <published>2020-10-06T01:30:10.000Z</published>
+    <updated>2020-10-06T01:48:03.673Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This chart could help you understand the key components of a fully automated devops setup in AWS.&lt;br&gt;&lt;img src=&quot;/images/automation.jpg&quot; class=&quot;&quot; width=&quot;1000&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="AWS" scheme="https://quincysting.github.io/ianqin/tags/AWS/"/>
+    
+  </entry>
   
   <entry>
     <title>Build a fully automated microservice</title>
