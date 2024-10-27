@@ -6,10 +6,8 @@ import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
 
 export default function App() {
-  const basename = '';
-
   return (
-    <Router basename={basename}>
+    <Router>
       <div className="min-h-screen bg-[var(--aws-bg)]">
         {/* Header */}
         <header className="bg-[var(--aws-navy)] shadow-lg sticky top-0 z-10">
