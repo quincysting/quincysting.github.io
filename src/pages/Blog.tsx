@@ -1,26 +1,20 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { BookOpen, Calendar, ChevronRight } from 'lucide-react';
-
-const BLOG_POSTS = [
-  {
-    title: "Getting Started with AWS Cloud: A Comprehensive Guide",
-    date: "2024-03-15",
-    slug: "getting-started-with-aws-cloud",
-    excerpt: "Amazon Web Services (AWS) has revolutionized how we build and deploy applications. In this guide, I'll share my experience and best practices for getting started with AWS cloud services."
-  }
-];
+import { getBlogPosts } from '../data/blogPosts';
 
 function Blog() {
+  const posts = getBlogPosts();
+
   return (
     <div className="space-y-8">
       <div className="flex items-center gap-2">
         <BookOpen className="w-6 h-6 text-[var(--aws-orange)]" />
-        <h1 className="text-2xl font-bold text-white">Blog Posts</h1>
+        <h1 className="text-2xl font-bold text-white">Blog Posts ({posts.length})</h1>
       </div>
 
       <div className="space-y-6">
-        {BLOG_POSTS.map((post) => (
+        {posts.map((post) => (
           <Link
             key={post.slug}
             to={`/blog/${post.slug}`}
