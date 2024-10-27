@@ -17,7 +17,7 @@ const ProfileSection = () => {
       <div className="px-6 py-6 -mt-16">
         <div className="flex flex-col md:flex-row gap-6">
           <img
-            src="/content/images/profile.JPG"
+            src="/content/images/profile.jpg"
             alt="Profile"
             className="w-32 h-32 rounded-full border-4 border-[var(--aws-card)] shadow-lg hover-lift object-cover"
           />
