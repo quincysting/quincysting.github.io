@@ -6,8 +6,10 @@ import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
 
 function App() {
+  const basename = import.meta.env.DEV ? '/' : '/personal-website'; // Replace with your repo name
+
   return (
-    <Router>
+    <Router basename={basename}>
       <div className="min-h-screen bg-[var(--aws-bg)]">
         {/* Header */}
         <header className="bg-[var(--aws-navy)] shadow-lg sticky top-0 z-10">

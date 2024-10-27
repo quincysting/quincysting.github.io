@@ -1,88 +1,17 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 import { BookOpen, Calendar, ChevronRight } from 'lucide-react';
 
-interface BlogPost {
-  title: string;
-  date: string;
-  slug: string;
-  excerpt: string;
-}
+const BLOG_POSTS = [
+  {
+    title: "Getting Started with AWS Cloud: A Comprehensive Guide",
+    date: "2024-03-15",
+    slug: "getting-started-with-aws-cloud",
+    excerpt: "Amazon Web Services (AWS) has revolutionized how we build and deploy applications. In this guide, I'll share my experience and best practices for getting started with AWS cloud services."
+  }
+];
 
 function Blog() {
-  const [posts, setPosts] = useState<BlogPost[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    const fetchPosts = async () => {
-      try {
-        const response = await fetch(
-          'https://api.github.com/repos/qinxiaoguang/personal-website/contents/content/blog',
-          {
-            headers: {
-              'Accept': 'application/vnd.github.v3+json'
-            }
-          }
-        );
-
-        if (!response.ok) {
-          throw new Error('Failed to fetch blog posts');
-        }
-
-        const files = await response.json();
-        const markdownFiles = files.filter((file: any) => file.name.endsWith('.md'));
-
-        const postsData = await Promise.all(
-          markdownFiles.map(async (file: any) => {
-            const contentResponse = await fetch(file.download_url);
-            const content = await contentResponse.text();
-            
-            // Parse frontmatter
-            const frontmatterMatch = content.match(/^---\n([\s\S]*?)\n---/);
-            const frontmatter = frontmatterMatch ? frontmatterMatch[1] : '';
-            
-            const titleMatch = frontmatter.match(/^title:\s*(.+)$/m);
-            const dateMatch = frontmatter.match(/^date:\s*(.+)$/m);
-            const excerptMatch = content.split('\n').find(line => line.length > 0 && !line.startsWith('---') && !line.startsWith('title:') && !line.startsWith('date:'));
-
-            return {
-              title: titleMatch ? titleMatch[1] : file.name.replace('.md', ''),
-              date: dateMatch ? dateMatch[1] : 'No date',
-              slug: file.name.replace('.md', ''),
-              excerpt: excerptMatch ? excerptMatch.replace(/^#+\s*/, '').slice(0, 150) + '...' : 'No excerpt available'
-            };
-          })
-        );
-
-        setPosts(postsData.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()));
-        setLoading(false);
-      } catch (err) {
-        console.error('Error fetching blog posts:', err);
-        setError('Failed to load blog posts. Please try again later.');
-        setLoading(false);
-      }
-    };
-
-    fetchPosts();
-  }, []);
-
-  if (loading) {
-    return (
-      <div className="flex justify-center items-center min-h-[400px]">
-        <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-[var(--aws-orange)]"></div>
-      </div>
-    );
-  }
-
-  if (error) {
-    return (
-      <div className="text-center py-12">
-        <p className="text-red-400">{error}</p>
-      </div>
-    );
-  }
-
   return (
     <div className="space-y-8">
       <div className="flex items-center gap-2">
@@ -91,7 +20,7 @@ function Blog() {
       </div>
 
       <div className="space-y-6">
-        {posts.map((post) => (
+        {BLOG_POSTS.map((post) => (
           <Link
             key={post.slug}
             to={`/blog/${post.slug}`}
