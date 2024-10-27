@@ -51,6 +51,12 @@ function Home() {
         </div>
         <div className="space-y-6">
           <EducationCard
+            school="The University of Melbourne"
+            degree="Master of Business Administration"
+            field="General Management"
+            // period="2014 - 2018"
+          />
+          <EducationCard
             school="Monash University"
             degree="Bachelor of Computer Science"
             field="Software Engineering"
