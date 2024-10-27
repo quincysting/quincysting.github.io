@@ -17,19 +17,18 @@ const ProfileSection = () => {
       <div className="px-6 py-6 -mt-16">
         <div className="flex flex-col md:flex-row gap-6">
           <img
-            src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80"
+            src="/content/images/profile.JPG"
             alt="Profile"
-            className="w-32 h-32 rounded-full border-4 border-[var(--aws-card)] shadow-lg hover-lift"
+            className="w-32 h-32 rounded-full border-4 border-[var(--aws-card)] shadow-lg hover-lift object-cover"
           />
           <div className="space-y-4">
             <div className="slide-in">
               <h1 className="text-3xl font-bold text-white">Ian Qin</h1>
-              <p className="text-lg text-gray-300">Principal Cloud Solutions Architect at NCS Group</p>
+              <p className="text-lg text-gray-300">Senior Software Engineer at Atlassian</p>
             </div>
             <p className="text-gray-300 max-w-2xl slide-in" style={{ animationDelay: '0.2s' }}>
-              Energetic, driven, and accomplished Hybrid/Multi-Cloud Solutions Architect with over 18 years of experience delivering/managing complex IT modernization projects.
-              Driving Cloud consumption through DevSecOps/IAC and migration to containerized services.
-              Proven thought leadership, thrive in challenges, track record of bringing clarity and putting forward logical solutions in complex and ambiguous situations.
+              Passionate software engineer with expertise in cloud technologies and distributed systems.
+              Focused on building scalable solutions and mentoring teams for success.
             </p>
             <div className="slide-in" style={{ animationDelay: '0.3s' }}>
               <div className="flex items-center gap-2">
