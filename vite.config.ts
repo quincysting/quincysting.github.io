@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/personal-website/', // Replace with your repo name
+  base: '/quincysting.github.io/', // Replace with your repo name
 });
