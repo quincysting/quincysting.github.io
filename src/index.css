@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --aws-navy: #232f3e;
+  --aws-orange: #ff9900;
+  --aws-bg: #0f1b2a;
+  --aws-card: #1b2b3e;
+}
+
+body {
+  background-color: var(--aws-bg);
+  color: #ffffff;
+}
+
+.aws-gradient {
+  background: linear-gradient(to right, var(--aws-navy), #1a3c5e);
+}
+
+.aws-card {
+  background-color: var(--aws-card);
+  border: 1px solid #2c415c;
+  transition: transform 0.2s ease-in-out, border-color 0.2s ease-in-out;
+}
+
+.aws-card:hover {
+  transform: translateY(-2px);
+}
+
+.aws-highlight {
+  color: var(--aws-orange);
+}
+
+/* Fade In Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Stagger children animations */
+.stagger-children > * {
+  opacity: 0;
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+.stagger-children > *:nth-child(1) { animation-delay: 0.1s; }
+.stagger-children > *:nth-child(2) { animation-delay: 0.2s; }
+.stagger-children > *:nth-child(3) { animation-delay: 0.3s; }
+.stagger-children > *:nth-child(4) { animation-delay: 0.4s; }
+.stagger-children > *:nth-child(5) { animation-delay: 0.5s; }
+
+/* Hover Effects */
+.hover-lift {
+  transition: transform 0.2s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-2px);
+}
+
+/* Pulse Animation for Loading */
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Slide animations */
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.slide-in {
+  animation: slideIn 0.5s ease-out forwards;
+}
+
+/* Markdown Styling */
+.prose {
+  color: #e5e7eb;
+}
+
+.prose a {
+  color: var(--aws-orange);
+  transition: color 0.2s ease;
+}
+
+.prose a:hover {
+  color: #ffb84d;
+}
+
+.prose strong {
+  color: #ffffff;
+}
+
+.prose code {
+  background-color: var(--aws-navy);
+  color: var(--aws-orange);
+  padding: 0.2em 0.4em;
+  border-radius: 0.25em;
+  transition: background-color 0.2s ease;
+}
+
+.prose code:hover {
+  background-color: #2c415c;
+}
+
+.prose pre {
+  background-color: var(--aws-navy);
+  padding: 1em;
+  border-radius: 0.5em;
+  transition: transform 0.2s ease;
+}
+
+.prose pre:hover {
+  transform: scale(1.01);
+}
+
+.prose blockquote {
+  border-left-color: var(--aws-orange);
+  transition: border-left-color 0.2s ease;
+}
+
+.prose blockquote:hover {
+  border-left-color: #ffb84d;
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  color: #ffffff;
+}
