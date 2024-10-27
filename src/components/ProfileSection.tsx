@@ -17,7 +17,7 @@ const ProfileSection = () => {
       <div className="px-6 py-6 -mt-16">
         <div className="flex flex-col md:flex-row gap-6">
           <img
-            src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80"
+            src="https://media.licdn.com/dms/image/v2/D5603AQEOw2cx1CGq7Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1686655665543?e=1735776000&v=beta&t=YyO5F_oIL9Y3H5GxvMd5TchOBdhWBOoEXGBdZVtY13I?ixlib=rb-1.2.1&auto=format&fit=crop&w=256&h=256&q=80"
             alt="Profile"
             className="w-32 h-32 rounded-full border-4 border-[var(--aws-card)] shadow-lg hover-lift"
           />
