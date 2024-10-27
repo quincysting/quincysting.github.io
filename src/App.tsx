@@ -5,8 +5,8 @@ import Home from './pages/Home';
 import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
 
-function App() {
-  const basename = import.meta.env.DEV ? '/' : '/personal-website'; // Replace with your repo name
+export default function App() {
+  const basename = '/';
 
   return (
     <Router basename={basename}>
@@ -24,7 +24,7 @@ function App() {
               </Link>
             </div>
             <div className="flex gap-4">
-              <a href="https://github.com/qinxiaoguang" className="text-gray-300 hover:text-[var(--aws-orange)]">
+              <a href="https://github.com/quincysting" className="text-gray-300 hover:text-[var(--aws-orange)]">
                 <Github className="w-5 h-5" />
               </a>
               <a href="https://www.linkedin.com/in/ianqin/" className="text-gray-300 hover:text-[var(--aws-orange)]">
@@ -55,5 +55,3 @@ function App() {
     </Router>
   );
 }
-
-export default App;

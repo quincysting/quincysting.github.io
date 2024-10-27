@@ -1,5 +1,5 @@
-const GITHUB_USERNAME = 'qinxiaoguang';
-const REPO_NAME = 'qinxiaoguang.github.io';
+const GITHUB_USERNAME = 'quincysting';
+const REPO_NAME = 'quincysting.github.io';
 const BLOG_PATH = 'content/blog';
 
 export interface BlogPost {
