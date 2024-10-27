@@ -6,7 +6,7 @@ import Blog from './pages/Blog';
 import BlogPost from './pages/BlogPost';
 
 export default function App() {
-  const basename = '/quincysting.github.io';
+  const basename = '';
 
   return (
     <Router basename={basename}>
