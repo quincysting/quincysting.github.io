@@ -29,7 +29,7 @@ const SummarySection = () => {
         <SummaryCard
           icon={Server}
           title="Cloud Architecture"
-          description="AWS certified professional with extensive experience in cloud infrastructure and DevOps"
+          description="AWS, Azure, and GCP certified professional with extensive experience in cloud infrastructure and DevOps"
         />
         <SummaryCard
           icon={Users}

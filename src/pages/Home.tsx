@@ -20,18 +20,25 @@ function Home() {
         </div>
         <div className="space-y-6">
           <ExperienceCard
-            title="Senior Software Engineer"
-            company="Atlassian"
-            period="2021 - Present"
+            title="Principal Cloud Solutions Architect"
+            company="NCS Group Australia"
+            period="2023 - Present"
             location="Sydney, Australia"
-            description="Working on Jira Cloud platform, focusing on high-performance distributed systems and microservices architecture."
+            description="Working on multi-cloud projects delivery for a large telco."
           />
           <ExperienceCard
-            title="Software Engineer"
-            company="Thoughtworks"
-            period="2018 - 2021"
-            location="Xi'an, China"
-            description="Led development of enterprise-scale applications, mentored junior developers, and implemented agile methodologies."
+            title="Cloud Solutions Architect"
+            company="Accenture Australia"
+            period="2021 - 2023"
+            location="Sydney Australia"
+            description="Solutions Architect at Coles Group account, developing cloud solutions for a large fulfilment automation project, solving APIs integration puzzle, driving microservices architecture design, managing nonfunctional requirements and operation observability."
+          />
+          <ExperienceCard
+            title="Cloud Solutions Architect"
+            company="Wipro Australia"
+            period="2019 - 2021"
+            location="Sydney Australia"
+            description="Multi-Cloud Automation/DevSecOps Lead at Woolworths Group account, SME for automation toolchain including HashiCorp Terraform, Vault and Consul, Ansible Tower, Azure DevOps, JFrog, Github, Kubernetes/Docker/Helm."
           />
         </div>
       </section>
@@ -44,10 +51,10 @@ function Home() {
         </div>
         <div className="space-y-6">
           <EducationCard
-            school="Xi'an Jiaotong University"
-            degree="Bachelor of Engineering"
+            school="Monash University"
+            degree="Bachelor of Computer Science"
             field="Software Engineering"
-            period="2014 - 2018"
+            // period="2014 - 2018"
           />
         </div>
       </section>
