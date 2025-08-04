@@ -1,7 +1,7 @@
 import React from 'react';
-import { Award, Cloud, Database, Boxes, Workflow, GraduationCap, BadgeCheck } from 'lucide-react';
+import { Award, Cloud, Database, Boxes, Workflow, GraduationCap, BadgeCheck, MapPin, LucideIcon } from 'lucide-react';
 
-const CertBadge = ({ icon: Icon, count, label }: { icon: any, count?: number, label: string }) => (
+const CertBadge = ({ icon: Icon, count, label }: { icon: LucideIcon, count?: number, label: string }) => (
   <div className="flex items-center gap-2 bg-[var(--aws-navy)] rounded-lg px-3 py-2 hover-lift">
     <Icon className="w-4 h-4 text-[var(--aws-orange)]" />
     <span className="font-medium text-gray-300">
@@ -23,15 +23,31 @@ const ProfileSection = () => {
           />
           <div className="space-y-4">
             <div className="slide-in">
-              <h1 className="text-3xl font-bold text-white">Ian Qin</h1>
-              <p className="text-lg text-gray-300">Principal Cloud Solutions Architect at NCS Group</p>
+              <h1 className="text-3xl font-bold text-white">Ian Qin | Australian/Baseline Cleared</h1>
+              <p className="text-lg text-gray-300">Multi-Cloud Solutions Architect | DevSecOps | Kubernetes | Terraform, Vault, Consul | Cloud/AI Engineering</p>
+              <div className="flex flex-wrap items-center gap-4 mt-2">
+                <div className="flex items-center gap-2 text-gray-400">
+                  <MapPin className="w-4 h-4" />
+                  <span>Sydney, Australia</span>
+                </div>
+              </div>
             </div>
             <p className="text-gray-300 max-w-2xl slide-in" style={{ animationDelay: '0.2s' }}>
-              Energetic, driven, and accomplished Hybrid/Multi-Cloud Solutions Architect with over 18 years of experience delivering/managing complex IT modernization projects.
-              Driving Cloud consumption through DevSecOps/IAC and migration to containerized services.
-              Proven thought leadership, thrive in challenges, track record of bringing clarity and putting forward logical solutions in complex and ambiguous situations.
+              Energetic, driven, and accomplished Multi-Cloud Solutions Architect with over 20 years of experience delivering complex IT modernization projects across
+              Microsoft Azure, AWS, and Google Cloud Platform. Extensive expertise in designing and implementing cloud infrastructure solutions utilizing Cloud Adoption Framework (CAF) and Well-Architected Framework
+              (WAF) principles alongside best practices for leading cloud platforms.
             </p>
-            <div className="slide-in" style={{ animationDelay: '0.3s' }}>
+            <p className="text-gray-300 max-w-2xl slide-in" style={{ animationDelay: '0.25s' }}>
+              Certified Professional Solutions Architect across all major cloud providers (Microsoft Azure, AWS, GCP) with deep specialty in cloud architecture,
+              DevSecOps, data engineering, and security. Hands-on experience in Cloud [infra, policy, security] as code, DevSecOps, and containerized workloads
+              optimized for high-performance computing.
+            </p>
+            <p className="text-gray-300 max-w-2xl slide-in" style={{ animationDelay: '0.3s' }}>
+              Proven track record of leading virtual technical teams, developing relationships with C-level stakeholders, and driving cloud adoption through strategic
+              initiatives that bridge business needs with innovative technology solutions. Australian citizen with Baseline Security Clearance, committed to delivering exceptional customer experiences through innovative cloud solutions that drive
+              business value.
+            </p>
+            <div className="slide-in" style={{ animationDelay: '0.35s' }}>
               <div className="flex items-center gap-2">
                 <Award className="w-5 h-5 text-[var(--aws-orange)]" />
                 <h3 className="text-lg font-semibold text-white">Certifications</h3>
@@ -45,6 +61,7 @@ const ProfileSection = () => {
                 <CertBadge icon={GraduationCap} label="MBA" />
                 <CertBadge icon={Workflow} label="PMI-PMP/ACP" />
                 <CertBadge icon={BadgeCheck} label="CSM/CSPO" />
+                <CertBadge icon={Award} label="TOGAF" />
               </div>
             </div>
           </div>

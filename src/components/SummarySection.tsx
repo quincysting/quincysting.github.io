@@ -1,7 +1,7 @@
 import React from 'react';
-import { Code2, Server, Users, Brain } from 'lucide-react';
+import { Code2, Server, Users, Brain, LucideIcon } from 'lucide-react';
 
-const SummaryCard = ({ icon: Icon, title, description }: { icon: any, title: string, description: string }) => (
+const SummaryCard = ({ icon: Icon, title, description }: { icon: LucideIcon, title: string, description: string }) => (
   <div className="aws-card rounded-lg p-6 hover:border-[var(--aws-orange)] transition-all duration-300 hover:scale-105">
     <div className="space-y-3">
       <div className="inline-block p-2 bg-[var(--aws-navy)] rounded-lg">
