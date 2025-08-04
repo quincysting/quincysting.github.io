@@ -28,7 +28,7 @@ export default function App() {
               <a href="https://www.linkedin.com/in/ianqin/" className="text-gray-300 hover:text-[var(--aws-orange)]">
                 <Linkedin className="w-5 h-5" />
               </a>
-              <a href="mailto:toqinyan@gmail.com" className="text-gray-300 hover:text-[var(--aws-orange)]">
+              <a href="mailto:ianqinmba@gmail.com" className="text-gray-300 hover:text-[var(--aws-orange)]">
                 <Mail className="w-5 h-5" />
               </a>
             </div>
