@@ -22,9 +22,16 @@ function Home() {
         </div>
         <div className="space-y-6">
           <ExperienceCard
+            title="Senior Manager - Senior Engineering Lead"
+            company="Deloitte Australia"
+            period="01/2026 - Present"
+            location="Sydney, Australia"
+            description="Leading engineering initiatives and delivering enterprise-scale cloud solutions for major clients across financial services and government sectors. Driving technical excellence, team leadership, and strategic consulting engagements."
+          />
+          <ExperienceCard
             title="Principal Cloud Architect"
             company="NCS Group Australia"
-            period="01/2023 - Present"
+            period="01/2023 - 01/2026"
             location="Sydney, Australia"
             description="Spearhead cloud engineering efforts, designing cutting-edge cloud solutions customized for telecommunications and government sectors, driving innovation and delivering tailored architectures to meet complex client requirements. Technology stack: AWS, Azure, GCP, Kubernetes, service mesh, Docker, Hashicorp stack, Jenkins, Azure DevOps, Gitlab, Prisma Cloud, MS Defender, Nexus, SonarQube, Camunda, Shell, Python."
           />
