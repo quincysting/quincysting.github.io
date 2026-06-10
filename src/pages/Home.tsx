@@ -5,7 +5,7 @@ import ExperienceCard from '../components/ExperienceCard';
 import EducationCard from '../components/EducationCard';
 import CertificateCard from '../components/CertificateCard';
 import SkillsSection from '../components/SkillsSection';
-import { Building2, GraduationCap, Award, School, Building, BookOpen, Laptop } from 'lucide-react';
+import { Building2, GraduationCap, Award, School, Building, BookOpen } from 'lucide-react';
 
 function Home() {
   return (
@@ -26,7 +26,7 @@ function Home() {
             company="Deloitte Australia"
             period="01/2026 - Present"
             location="Sydney, Australia"
-            description="Leading engineering initiatives and delivering enterprise-scale cloud solutions for major clients across financial services and government sectors. Driving technical excellence, team leadership, and strategic consulting engagements."
+            description="Senior Engineering Lead on the Macquarie Bank account, driving the Data Platform Uplift program across analytics modernization, data governance, and platform engineering in a regulated financial services environment. Architecting enterprise analytics integrating Amazon Quick Suite (QuickSight) with an open data lake built on Amazon S3, Apache Iceberg, AWS Lake Formation, and Redshift Serverless, with multi-region, APRA-aligned (CPS 230/234) data sovereignty and governance controls. Technology stack: Amazon Quick Suite (QuickSight), Amazon Redshift Serverless, AWS Glue, AWS Lake Formation, Amazon S3, Apache Iceberg, IAM Identity Center, Terraform, Python."
           />
           <ExperienceCard
             title="Principal Cloud Architect"
@@ -66,7 +66,7 @@ function Home() {
           <ExperienceCard
             title="IT Engineer → IT Ops Manager"
             company="Boeing"
-            period="05/2006 - 09/2013"
+            period="05/2008 - 09/2013"
             location="Melbourne/Singapore/Beijing"
             description="Boeing Commercial Airplanes (BCA) IT infrastructure modernization and integration in the APAC region. Led virtual technical teams across 5 APAC countries, delivering 3 multi-million dollar IT initiatives 15% under budget."
           />
@@ -96,13 +96,6 @@ function Home() {
           />
           <EducationCard
             school="Monash University"
-            degree="Master of Applied IT"
-            field="Business Information System Design (SAP R/3), Network Communication and Management, JAVA"
-            icon={Laptop}
-            // period="2014 - 2018"
-          />
-          <EducationCard
-            school="Beijing Polytechnic University"
             degree="B.Sc. of Computer Science"
             field="Mathematics, Algorithms and Object-Oriented Programming with C and Pascal"
             icon={BookOpen}
@@ -118,6 +111,12 @@ function Home() {
           <h2 className="text-2xl font-bold text-white">Certifications</h2>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <CertificateCard
+            title="AWS Certified Generative AI Developer – Professional"
+            issuer="Amazon Web Services (AWS)"
+            date="April 18, 2026"
+            credlyLink="https://www.credly.com/earner/earned/badge/dedabd9f-3bfc-4a3b-a07e-b0f54ebe074b"
+          />
           <CertificateCard
             title="AWS Certified Machine Learning Engineer – Associate"
             issuer="Amazon Web Services (AWS)"

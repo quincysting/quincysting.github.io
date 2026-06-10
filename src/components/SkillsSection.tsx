@@ -33,7 +33,7 @@ const SkillsSection = () => {
     {
       icon: Cloud,
       title: 'Cloud Platforms',
-      skills: ['AWS (15 Certs)', 'Azure (9 Certs)', 'GCP (6 Certs)', 'Multi-Cloud Architecture', 'Cloud Adoption Framework', 'Well-Architected Framework']
+      skills: ['AWS (16 Certs)', 'Azure (9 Certs)', 'GCP (6 Certs)', 'Multi-Cloud Architecture', 'Cloud Adoption Framework', 'Well-Architected Framework']
     },
     {
       icon: Terminal,

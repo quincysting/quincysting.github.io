@@ -24,7 +24,7 @@ const ProfileSection = () => {
           <div className="space-y-4">
             <div className="slide-in">
               <h1 className="text-3xl font-bold text-white">Ian Qin | Australian/Baseline Cleared</h1>
-              <p className="text-lg text-gray-300">Multi-Cloud Solutions Architect | DevSecOps | Kubernetes | Terraform, Vault, Consul | Cloud/AI Engineering</p>
+              <p className="text-lg text-gray-300">Multi-Cloud Solutions Architect | Cloud/Data/AI Engineering | DevSecOps | Kubernetes</p>
               <div className="flex flex-wrap items-center gap-4 mt-2">
                 <div className="flex items-center gap-2 text-gray-400">
                   <MapPin className="w-4 h-4" />
@@ -33,7 +33,7 @@ const ProfileSection = () => {
               </div>
             </div>
             <p className="text-gray-300 max-w-2xl slide-in" style={{ animationDelay: '0.2s' }}>
-              Energetic, driven, and accomplished Multi-Cloud Solutions Architect with over 20 years of experience delivering complex IT modernization projects across
+              Energetic, driven, and accomplished Multi-Cloud Solutions Architect with 20 years of experience delivering complex IT modernization projects across
               Microsoft Azure, AWS, and Google Cloud Platform. Extensive expertise in designing and implementing cloud infrastructure solutions utilizing Cloud Adoption Framework (CAF) and Well-Architected Framework
               (WAF) principles alongside best practices for leading cloud platforms.
             </p>
@@ -53,7 +53,7 @@ const ProfileSection = () => {
                 <h3 className="text-lg font-semibold text-white">Certifications</h3>
               </div>
               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 mt-3 stagger-children">
-                <CertBadge icon={Cloud} count={15} label="AWS" />
+                <CertBadge icon={Cloud} count={16} label="AWS" />
                 <CertBadge icon={Cloud} count={9} label="Azure" />
                 <CertBadge icon={Cloud} count={6} label="GCP" />
                 <CertBadge icon={Boxes} count={3} label="Kubernetes" />
