@@ -1,3 +1,8 @@
+import genaiBeyondDemo from './posts/building-production-genai-on-aws-beyond-the-demo.md?raw';
+import ragInProduction from './posts/rag-that-survives-production.md?raw';
+import governedLakehouse from './posts/governed-lakehouse-iceberg-lake-formation-redshift-serverless-regulated-fs.md?raw';
+import mlopsBreaks from './posts/mlops-in-production-what-actually-breaks.md?raw';
+
 export interface BlogPost {
   title: string;
   date: string;
@@ -7,6 +12,34 @@ export interface BlogPost {
 }
 
 export const blogPosts: BlogPost[] = [
+  {
+    title: "Building Production GenAI on AWS: Beyond the Demo",
+    date: "2026-06-05",
+    slug: "building-production-genai-on-aws-beyond-the-demo",
+    excerpt: "I've shipped GenAI on AWS in regulated financial services, where a working demo is maybe 20% of the job. Here's what the other 80% — guardrails, RAG trade-offs, cost, governance, observability — actually looks like in production.",
+    content: genaiBeyondDemo
+  },
+  {
+    title: "RAG That Survives Production: Retrieval, Governance, and Agents",
+    date: "2026-05-20",
+    slug: "rag-that-survives-production",
+    excerpt: "I've shipped enough RAG into regulated environments to know the demo is the easy part. Here's what actually breaks in production, and the retrieval, governance, and agentic patterns I lean on to keep it standing.",
+    content: ragInProduction
+  },
+  {
+    title: "The Governed Lakehouse: Iceberg, Lake Formation and Redshift Serverless in Regulated Financial Services",
+    date: "2026-04-28",
+    slug: "governed-lakehouse-iceberg-lake-formation-redshift-serverless-regulated-fs",
+    excerpt: "Notes from the data-platform program I'm on: how I wire Iceberg, Lake Formation and Redshift Serverless into a governed lakehouse that survives an APRA audit, and where the seams actually show under load.",
+    content: governedLakehouse
+  },
+  {
+    title: "MLOps in Production: What Actually Breaks",
+    date: "2026-03-30",
+    slug: "mlops-in-production-what-actually-breaks",
+    excerpt: "After years running ML and data platforms in regulated financial services, I've found the model is rarely what fails. The failures live in the pipelines, the skew, and the monitoring nobody funded.",
+    content: mlopsBreaks
+  },
   {
     title: "Mastering AWS Bedrock: Generative AI for Enterprise Applications",
     date: "2024-04-10",

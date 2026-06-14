@@ -47,8 +47,8 @@ const SkillsSection = () => {
     },
     {
       icon: Database,
-      title: 'Data & Analytics',
-      skills: ['BigQuery', 'Data Lake', 'ETL/ELT', 'REST APIs', 'Camunda BPM', 'SAP R/3', 'Business Analytics', 'Data Engineering']
+      title: 'Data & AI',
+      skills: ['Amazon Bedrock', 'GenAI', 'Agentic AI', 'MCP Agents', 'Strands', 'ReAct Patterns', 'RAG', 'Apache Iceberg', 'Data Lake', 'BigQuery', 'ETL/ELT', 'Data Engineering']
     },
     {
       icon: Shield,

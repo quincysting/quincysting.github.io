@@ -5,12 +5,51 @@ import ExperienceCard from '../components/ExperienceCard';
 import EducationCard from '../components/EducationCard';
 import CertificateCard from '../components/CertificateCard';
 import SkillsSection from '../components/SkillsSection';
-import { Building2, GraduationCap, Award, School, Building, BookOpen } from 'lucide-react';
+import { Building2, GraduationCap, Award, School, Building, BookOpen, Globe } from 'lucide-react';
 
 function Home() {
   return (
     <div className="space-y-8">
       <ProfileSection />
+
+      {/* Personal Sites Section */}
+      <section className="space-y-4">
+        <div className="flex items-center gap-2">
+          <Globe className="w-6 h-6 text-[var(--aws-orange)]" />
+          <h2 className="text-2xl font-bold text-white">Personal Sites</h2>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <a
+            href="https://amazonquick.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="aws-card rounded-lg p-6 hover:border-[var(--aws-orange)] transition-colors block"
+          >
+            <div className="space-y-2">
+              <h3 className="text-xl font-semibold text-white">Amazon Quick</h3>
+              <p className="text-gray-300 text-sm">amazonquick.netlify.app</p>
+              <span className="inline-block mt-2 text-[var(--aws-orange)] hover:text-[#ffb84d]">
+                Visit Site →
+              </span>
+            </div>
+          </a>
+          <a
+            href="https://cloudformationstack.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="aws-card rounded-lg p-6 hover:border-[var(--aws-orange)] transition-colors block"
+          >
+            <div className="space-y-2">
+              <h3 className="text-xl font-semibold text-white">CloudFormation Stack</h3>
+              <p className="text-gray-300 text-sm">cloudformationstack.com</p>
+              <span className="inline-block mt-2 text-[var(--aws-orange)] hover:text-[#ffb84d]">
+                Visit Site →
+              </span>
+            </div>
+          </a>
+        </div>
+      </section>
+
       <SummarySection />
       <SkillsSection />
 
@@ -115,7 +154,7 @@ function Home() {
             title="AWS Certified Generative AI Developer – Professional"
             issuer="Amazon Web Services (AWS)"
             date="April 18, 2026"
-            credlyLink="https://www.credly.com/earner/earned/badge/dedabd9f-3bfc-4a3b-a07e-b0f54ebe074b"
+            credlyLink="https://www.credly.com/badges/80b66a68-14fc-4aae-b7bd-619e327df473/public_url"
           />
           <CertificateCard
             title="AWS Certified Machine Learning Engineer – Associate"

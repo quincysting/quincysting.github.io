@@ -53,10 +53,10 @@ const ProfileSection = () => {
                 <h3 className="text-lg font-semibold text-white">Certifications</h3>
               </div>
               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2 mt-3 stagger-children">
-                <CertBadge icon={Cloud} count={16} label="AWS" />
+                <CertBadge icon={Cloud} label="AWS (16) · Golden Jacket" />
                 <CertBadge icon={Cloud} count={9} label="Azure" />
                 <CertBadge icon={Cloud} count={6} label="GCP" />
-                <CertBadge icon={Boxes} count={3} label="Kubernetes" />
+                <CertBadge icon={Boxes} label="Kubestronaut" />
                 <CertBadge icon={Database} count={3} label="HashiCorp" />
                 <CertBadge icon={GraduationCap} label="MBA" />
                 <CertBadge icon={Workflow} label="PMI-PMP/ACP" />
