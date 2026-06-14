@@ -17,7 +17,7 @@ const ProfileSection = () => {
       <div className="px-6 py-6 -mt-16">
         <div className="flex flex-col md:flex-row gap-6">
           <img
-            src="/content/images/profile.jpg"
+            src="/content/images/profile.jpg?v=2"
             alt="Profile"
             className="w-32 h-32 rounded-full border-4 border-[var(--aws-card)] shadow-lg hover-lift object-cover"
           />
@@ -33,19 +33,21 @@ const ProfileSection = () => {
               </div>
             </div>
             <p className="text-gray-300 max-w-2xl slide-in" style={{ animationDelay: '0.2s' }}>
-              Energetic, driven, and accomplished Multi-Cloud Solutions Architect with 20 years of experience delivering complex IT modernization projects across
-              Microsoft Azure, AWS, and Google Cloud Platform. Extensive expertise in designing and implementing cloud infrastructure solutions utilizing Cloud Adoption Framework (CAF) and Well-Architected Framework
-              (WAF) principles alongside best practices for leading cloud platforms.
+              Energetic, driven, and accomplished Multi-Cloud Solutions Architect and data &amp; AI engineering leader with 20 years of experience delivering complex
+              modernization programs across Microsoft Azure, AWS, and Google Cloud Platform. Currently architecting enterprise analytics for a tier-one Australian bank &mdash;
+              integrating Amazon Quick Suite (QuickSight) with an open lakehouse built on Amazon S3, Apache Iceberg, AWS Lake Formation, and Redshift Serverless &mdash;
+              applying Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF) principles throughout.
             </p>
             <p className="text-gray-300 max-w-2xl slide-in" style={{ animationDelay: '0.25s' }}>
-              Certified Professional Solutions Architect across all major cloud providers (Microsoft Azure, AWS, GCP) with deep specialty in cloud architecture,
-              DevSecOps, data engineering, and security. Hands-on experience in Cloud [infra, policy, security] as code, DevSecOps, and containerized workloads
-              optimized for high-performance computing.
+              Certified Professional Solutions Architect across all major cloud providers (Microsoft Azure, AWS, GCP) with deep specialty in data platform engineering,
+              GenAI and agentic AI, DevSecOps, and security. A hands-on GenAI practitioner&mdash;building production solutions with Amazon Bedrock, the Model Context Protocol (MCP),
+              and LLM-powered engineering workflows&mdash;alongside lakehouse architectures, open table formats, and BI at scale with fine-grained, APRA-aligned data governance.
+              Comfortable in Cloud [infra, policy, security] as code, Kubernetes, and containerized workloads.
             </p>
             <p className="text-gray-300 max-w-2xl slide-in" style={{ animationDelay: '0.3s' }}>
-              Proven track record of leading virtual technical teams, developing relationships with C-level stakeholders, and driving cloud adoption through strategic
-              initiatives that bridge business needs with innovative technology solutions. Australian citizen with Baseline Security Clearance, committed to delivering exceptional customer experiences through innovative cloud solutions that drive
-              business value.
+              Proven track record of leading virtual technical teams, advising C-level stakeholders, and driving cloud and data adoption through strategic
+              initiatives that bridge business needs with innovative technology. Australian citizen with Baseline Security Clearance, focused on delivering governed, secure,
+              and cost-efficient data and AI platforms that drive measurable business value.
             </p>
             <div className="slide-in" style={{ animationDelay: '0.35s' }}>
               <div className="flex items-center gap-2">
