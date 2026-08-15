@@ -83,10 +83,10 @@ function Home() {
           />
           <ExperienceCard
             title="Cloud Architect/DevOps SME"
-            company="Wipro Limited"
+            company="Woolworths Group"
             period="11/2019 - 01/2022"
             location="Sydney, Australia"
-            description="Led Cloud automation, site reliability engineering, and DevSecOps initiatives for the Woolworths Group account, focusing on Azure/GCP hybrid cloud implementation. Technology stack: Azure/GCP, Azure DevOps, Ansible Tower, Terraform Enterprise, Jfrog, ArgoCD, Docker, HashiCorp Vault/Consul, Cloudability, Shell, Python, ServiceNow."
+            description="Led Cloud automation, site reliability engineering, and DevSecOps initiatives, focusing on Azure/GCP hybrid cloud implementation. Technology stack: Azure/GCP, Azure DevOps, Ansible Tower, Terraform Enterprise, Jfrog, ArgoCD, Docker, HashiCorp Vault/Consul, Cloudability, Shell, Python, ServiceNow."
           />
           <ExperienceCard
             title="Enterprise Solutions Architect"
